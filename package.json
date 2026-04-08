@@ -1,11 +1,13 @@
 {
   "name": "@chizalam/filter-engine",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Headless type-safe filter engine",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "type": "module",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc",
     "test": "vitest",

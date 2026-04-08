@@ -1,6 +1,6 @@
 {
   "name": "@chizalam/filter-engine",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "Headless type-safe filter engine",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

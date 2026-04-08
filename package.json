@@ -1,0 +1,29 @@
+{
+  "name": "@chizalam/filter-engine",
+  "version": "1.0.0",
+  "description": "Headless type-safe filter engine",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "type": "module",
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemuchay/filter-engine.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cemuchay/filter-engine/issues"
+  },
+  "homepage": "https://github.com/cemuchay/filter-engine#readme",
+  "devDependencies": {
+    "typescript": "^6.0.2",
+    "vitest": "^4.1.3"
+  }
+}

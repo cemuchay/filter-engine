@@ -1,3 +1,6 @@
+[![npm version](https://img.shields.io/npm/v/@chizalam/filter-engine.svg)](https://www.npmjs.com/package/@chizalam/filter-engine)
+[![license](https://img.shields.io/npm/l/@chizalam/filter-engine.svg)](https://www.npmjs.com/package/@chizalam/filter-engine)
+
 # 🚀 Advanced Filter Engine
 ### A headless, type-safe logic library for complex data filtering.
 
